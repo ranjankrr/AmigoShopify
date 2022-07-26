@@ -1,38 +1,57 @@
-.App {
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+.bg-success{
+  width:100%;
+  height:600px;
+}
+.shopify{
   text-align: center;
+  padding-top:50px;
+  color:white;
+  font-style: italic;
+  font-size: 24px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+input{
+  width:200px;
+  padding:5px;
+  outline: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+button{
+  border:0px;
+  width:200px;
+  padding: 7px;
+  background-color: black;
+  color:white;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+button:hover{
+  text-decoration: underline;
+}
+.input-button{
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 20px;
+  margin-top: 30px;
 }
-
-.App-link {
-  color: #61dafb;
+.form{
+  margin-top:20px;
+  background-color: brown;
+  width:500px;
+  height:400px
+  
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.form input{
+     width:300px;
+     margin-top:30px;
+     margin-left:100px;
+}
+.form button{
+  margin-top:20px;
+  margin-left: 150px;
+}
+.head{
+  display: flex;
+  justify-content: center;
 }
