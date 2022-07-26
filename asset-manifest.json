@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AmigoShopify/static/css/main.bfc9e604.css",
+    "main.js": "/AmigoShopify/static/js/main.cd6d547a.js",
+    "index.html": "/AmigoShopify/index.html",
+    "main.bfc9e604.css.map": "/AmigoShopify/static/css/main.bfc9e604.css.map",
+    "main.cd6d547a.js.map": "/AmigoShopify/static/js/main.cd6d547a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc9e604.css",
+    "static/js/main.cd6d547a.js"
+  ]
+}
