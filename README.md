@@ -1,3 +1,8 @@
+Google sheets link : https://docs.google.com/spreadsheets/d/1z2aXnd3sMaH-7wvpjiMlB4PXGudMRwkQCyLakI8Z_a4/edit#gid=0
+
+Hoist Link : https://ranjankrr.github.io/AmigoShopify/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
